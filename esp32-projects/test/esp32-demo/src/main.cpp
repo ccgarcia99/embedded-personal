@@ -8,10 +8,10 @@ void setup() {
 }
 
 void loop() {
-  delay(2000);
+  delay(500);
   digitalWrite(LED_BUILTIN, HIGH);
-  Serial.println("Testing...");
-  delay(2000);
+  Serial.println("Testing Serial Connection from Arch Linux to ESP32!");
+  delay(500);
   digitalWrite(LED_BUILTIN, LOW);
   Serial.println("Success!");
 }
