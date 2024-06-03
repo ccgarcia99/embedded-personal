@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/ccdecierdo/Desktop/workspace-repo/embedded-personal/esp32-projects/esp32-demo/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
